@@ -121,6 +121,17 @@ button:hover {
     border: none;
 }
 
-footer {
+.container {
     margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    margin: 500px;
+    font-size: 10px;
+}
+
+.container h1 {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 10px;
 }
